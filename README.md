@@ -15,6 +15,6 @@ Games have become one of the most efficient vehicles for evaluating artificial i
 ## Run
 ```
 cd code/
-Upload 'muzero_colab.ipynb' to Google CoLab.
-Run file
 ```
+- Upload 'muzero_colab.ipynb' to Google CoLab.
+- Run file.
